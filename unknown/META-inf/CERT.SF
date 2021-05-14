@@ -1,0 +1,49 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android SignApk)
+SHA1-Digest-Manifest: QOwJf0YimT20z7rX0NXMYGJ6/x0=
+
+Name: AndroidManifest.xml
+SHA1-Digest: Wwtxe7HCtoRNMgrJkswj5S/NQWI=
+
+Name: res/drawable-xhdpi-v4/add.png
+SHA1-Digest: c+Mg9ouqIRd9p/44nUK2PnV28ao=
+
+Name: res/drawable-xhdpi-v4/ic_brightness_7_black.png
+SHA1-Digest: xguBJpviGq5vFB3FVsYufY3ZjHE=
+
+Name: classes2.dex
+SHA1-Digest: nxQPJO+Oresrf4lfnkJcCL0XkfU=
+
+Name: res/drawable-xhdpi-v4/ic_adjust_white.png
+SHA1-Digest: m37EbR6NqEBhLe6vz4umj3BNTWs=
+
+Name: res/layout/main.xml
+SHA1-Digest: lCVlVG4Z73fox1PVZYryhkiIUd8=
+
+Name: res/layout/popup.xml
+SHA1-Digest: Yi8iIDKs29tvPce4a3u0L+nT0K4=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA1-Digest: vA4HYCa3Y6LXmsFenFMGgG4qPzE=
+
+Name: res/drawable-xhdpi-v4/ic_done_black.png
+SHA1-Digest: m/kFerdVh/okdI+jkyaW5PDIOLk=
+
+Name: res/drawable-xhdpi-v4/ic_remove_red_eye_black.png
+SHA1-Digest: 063OiAD1dnC6jWT3yQACRcC/MlQ=
+
+Name: res/drawable-xhdpi-v4/image.png
+SHA1-Digest: GQ0fYlT5vSzd3zfON9KlH1y+E4I=
+
+Name: resources.arsc
+SHA1-Digest: U9yhzU/Fa/E4M9+3gwFXa5I3D5I=
+
+Name: classes.dex
+SHA1-Digest: 553sr3lTY9FGrxWs5oH4+X7P6uY=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA1-Digest: W5aSSS4dtogR31GtMA1IoZxx1Kg=
+
+Name: res/layout/setting.xml
+SHA1-Digest: o9UxOt+ELlAi5KRWmyRsMHoznJE=
+
