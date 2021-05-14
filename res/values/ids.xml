@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<item type="id" name="imageview3">false</item>
+<item type="id" name="button2">false</item>
+<item type="id" name="checkbox5">false</item>
+<item type="id" name="textview1">false</item>
+<item type="id" name="checkbox1">false</item>
+<item type="id" name="checkbox2">false</item>
+<item type="id" name="checkbox3">false</item>
+<item type="id" name="checkbox4">false</item>
+<item type="id" name="checkbox6">false</item>
+<item type="id" name="textview2">false</item>
+<item type="id" name="checkbox11">false</item>
+<item type="id" name="checkbox8">false</item>
+<item type="id" name="checkbox9">false</item>
+<item type="id" name="checkbox10">false</item>
+<item type="id" name="checkbox12">false</item>
+<item type="id" name="checkbox13">false</item>
+<item type="id" name="checkbox14">false</item>
+<item type="id" name="textview3">false</item>
+</resources>
