@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.my.newproject20" platformBuildVersionCode="28" platformBuildVersionName="9">
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="28" />
+	<uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+	<application android:allowBackup="true" android:icon="@drawable/app_icon" android:label="app" android:largeHeap="true" android:name=".SketchApplication" android:theme="@style/AppTheme" android:usesCleartextTraffic="true">
+		<activity android:configChanges="keyboardHidden|orientation|screenLayout|screenSize|smallestScreenSize" android:hardwareAccelerated="true" android:name=".MainActivity" android:screenOrientation="portrait" android:supportsPictureInPicture="true">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:name=".DebugActivity" android:screenOrientation="portrait" />
+		<uses-library android:name="org.apache.http.legacy" android:required="false" />
+	</application>
+</manifest>
